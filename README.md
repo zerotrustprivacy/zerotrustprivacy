@@ -33,7 +33,10 @@ Stay updated with my technical insights and automation tips at
 [TechSavvySadie.substack.com](https://TechSavvySadie.substack.com)
 
 ---
+### Certifications
 
+<!--START_BADGES:badges-->
+<!--END_BADGES:badges-->
 <!--
 **zerotrustprivacy/zerotrustprivacy** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 -->
