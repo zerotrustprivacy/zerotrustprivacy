@@ -35,8 +35,16 @@ Stay updated with my technical insights and automation tips at
 ---
 ### Certifications
 
-<!--START_BADGES:badges-->
-<!--END_BADGES:badges-->
+<div><img src="microsoft-certified-azure-fundamentals.png">
+<img src="aws-certified-cloud-practitioner.png">
+<img src="splunk-core-certified-power-user.png">
+<img src="comptia-security-ce-certification.png">
+<img src="comptia-cysa-ce-certification.png">
+<img src="comptia-pentest-ce-certification.png">
+<img src="comptia-securityx-ce-certification.png">
+<img src="cloud-digital-leader-certification.png">
+<img src="generative-ai-leader-certification.png">
+<img src="associate-cloud-engineer-certification.png"></div>
 <!--
 **zerotrustprivacy/zerotrustprivacy** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 -->
