@@ -2,7 +2,7 @@
 
 ## 🚀 System Engineer | Python • Splunker • Cloud
 
-I am an avid learner of technology, always curious about the latest advancements in the field. My passion lies in experimenting with new tools and resources, and I enjoy helping my team drive efficiency through automation.
+I am an avid learner of technology, always curious about the latest advancements in the healthcare and technology fields. My passion lies in experimenting with new tools and resources, and I enjoy helping my team drive efficiency through automation.
 
 ---
 
@@ -30,7 +30,7 @@ All of my projects are notable—each one reflects my commitment to quality, inn
 ### 📝 Read My Blog
 
 Stay updated with my technical insights and automation tips at  
-[TechSavvySadie.substack.com](https://TechSavvySadie.substack.com)
+[techsavvysadie.substack.com](https://Techsavvysadie.substack.com)
 
 ---
 ### Certifications
