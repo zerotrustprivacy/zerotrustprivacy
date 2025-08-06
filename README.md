@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sadie
 
-## 🚀 System Engineer | Python • Splunker • Cloud
+## 🚀 System Engineer | Python • Splunk • Cloud
 
 I am an avid learner of technology, always curious about the latest advancements in the healthcare and technology fields. My passion lies in experimenting with new tools and resources, and I enjoy helping my team drive efficiency through automation.
 
