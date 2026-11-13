@@ -1,4 +1,3 @@
-<img src="_81cbe224-68b2-4281-a6e9-3ac25f9c8cf4.jpeg" align="right" width="240" alt="Illustration of Sadie coding at a retro computer">
 
 # Hi, I'm Sadie 👋
 
